@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=ScavengerHunt
+comment0.text=\r\n\ \ The\ ScangerHunt\ class\ is\ created\ to\ add\ an\ a\ Scavenger\ object\ \r\n\ \ into\ the\ Island\ and\ call\ it's\ methods.\r\n\r\n\ \ @author\ Jaden\ Davis-King\r\n\ \ @version\ 2023.01.31\r\n
+comment1.params=
+comment1.target=ScavengerHunt()
+comment1.text=\r\n\ Initializes\ a\ newly\ created\ ScavengerHunt\ object.\r\n
+comment2.params=
+comment2.target=void\ myProgram()
+comment2.text=\r\n\ An\ instance\ of\ the\ Scavenger\ class\ is\ added\ and\ its\ \r\n\ method\ is\ called\r\n
+numComments=3
