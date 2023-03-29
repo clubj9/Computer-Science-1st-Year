@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=HeroTest
+comment0.text=\r\n\ \ Test\ class\ for\ the\ Hero\ Class\r\n\r\n\ \ @author\ Jaden\ Davis-King\ (jadendk)\r\n\ \ @version\ (2023.03.20)\r\n
+comment1.params=
+comment1.target=HeroTest()
+comment1.text=\r\n\ Creates\ a\ new\ HeroTest\ test\ object.\r\n
+comment2.params=
+comment2.target=void\ setUp()
+comment2.text=\r\n\ Sets\ up\ the\ test\ fixture.\r\n\ Called\ before\ every\ test\ case\ method.\r\n
+comment3.params=
+comment3.target=void\ testContstructor()
+comment3.text=\r\n\ tests\ constructors\r\n
+numComments=4

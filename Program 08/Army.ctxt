@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Army
+comment0.text=\r\n\ \ army\ consists\ of\ a\ series\ of\ squads\ and\ larger\ \r\n\ \ units\ (monsters,\ heroes,\ etc.)\r\n\r\n\ \ @author\ Jaden\ Davis-King\ (jadendk)\r\n\ \ @version\ (2023.03.20)\r\n
+comment1.params=aName\ fact\ pName
+comment1.target=Army(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment1.text=\r\n\ Initializes\ a\ newly\ created\ Army\ object.\r\n\ @param\ aName\ the\ army\ name\r\n\ @param\ fact\ faction\ name\r\n\ @param\ pName\ player\ name\r\n
+comment2.params=
+comment2.target=java.lang.String\ getPlayerName()
+comment2.text=\r\n\ getter\ method\ for\ player\ name\r\n\ @return\ the\ string\r\n
+comment3.params=s
+comment3.target=void\ setPlayerName(java.lang.String)
+comment3.text=\r\n\ setter\ method\ for\ player\ name\r\n\ @param\ s\ name\r\n
+comment4.params=
+comment4.target=java.lang.String\ getFaction()
+comment4.text=\r\n\ getter\ method\ for\ faction\r\n\ @return\ the\ string\r\n
+comment5.params=s
+comment5.target=void\ setFaction(java.lang.String)
+comment5.text=\r\n\ setter\ method\ for\ faction\r\n\ @param\ s\ faction\r\n
+comment6.params=
+comment6.target=java.lang.String\ toString()
+comment6.text=\r\n\ returns\ to\ string\ values\ for\ each\ unit\r\n\ @return\ the\ string\r\n
+numComments=7

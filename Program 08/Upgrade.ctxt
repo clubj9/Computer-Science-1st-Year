@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Upgrade
+comment0.text=\r\n\ \ These\ are\ "upgrades",\ usually\ boosting\ the\ unit's\ abilities\ in\ \r\n\ \ some\ interesting\ way.\r\n\r\n\ \ @author\ Jaden\ Davis-King\ (jadendk)\r\n\ \ @version\ (2023.03.20)\r\n
+comment1.params=n\ p
+comment1.target=Upgrade(java.lang.String,\ int)
+comment1.text=\r\n\ Initializes\ a\ newly\ created\ Upgrade\ object.\r\n\ @param\ n\ name\r\n\ @param\ p\ points\r\n
+comment2.params=val
+comment2.target=void\ setPoints(int)
+comment2.text=\r\n\ setter\ method\ for\ the\ points\r\n\ @param\ val\ value\ for\ points\r\n
+comment3.params=
+comment3.target=int\ getPoints()
+comment3.text=\r\n\ getter\ method\ for\ points\r\n\ @return\ the\ value\r\n
+comment4.params=str
+comment4.target=void\ setName(java.lang.String)
+comment4.text=\r\n\ setter\ method\ for\ name\r\n\ @param\ str\ set\ the\ name\r\n
+comment5.params=
+comment5.target=java.lang.String\ getName()
+comment5.text=\r\n\ getter\ method\ for\ name\r\n\ @return\ the\ value\r\n
+comment6.params=
+comment6.target=java.lang.String\ toString()
+comment6.text=\r\n\ method\ for\ return\ the\ upgrades\ name\ and\ points\r\n\ @return\ the\ string\r\n
+numComments=7

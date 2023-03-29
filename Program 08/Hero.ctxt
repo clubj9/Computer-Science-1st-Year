@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Hero
+comment0.text=\r\n\ \ A\ Hero\ is\ a\ subclass\ of\ EnhancedUnit\ that\ is\ extra\ durable\ and\ capable.\ \r\n\r\n\ \ @author\ Jaden\ Davis-King\ (jadendk)\r\n\ \ @version\ (2023.03.20)\r\n
+comment1.params=n\ p
+comment1.target=Hero(java.lang.String,\ int)
+comment1.text=\r\n\ Initializes\ a\ newly\ created\ Hero\ object.\r\n\ @param\ n\ name\r\n\ @param\ p\ points\r\n
+numComments=2

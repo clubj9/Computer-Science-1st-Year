@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=EnhancedUnitTest
+comment0.text=\r\n\ \ Test\ class\ for\ Enhanced\ Unit\ class\r\n\r\n\ \ @author\ Jaden\ Davis-King\ (jadendk)\r\n\ \ @version\ (2023.03.20)\r\n
+comment1.params=
+comment1.target=EnhancedUnitTest()
+comment1.text=\r\n\ Creates\ a\ new\ EnhancedUnitTest\ test\ object.\r\n
+comment2.params=
+comment2.target=void\ setUp()
+comment2.text=\r\n\ Sets\ up\ the\ test\ fixture.\r\n\ Called\ before\ every\ test\ case\ method.\r\n
+comment3.params=
+comment3.target=void\ testSetSpecialRule()
+comment3.text=\r\n\ tests\ for\ set\ Special\ Rule\r\n
+comment4.params=
+comment4.target=void\ testContstructor()
+comment4.text=\r\n\ tests\ constructors\r\n
+comment5.params=
+comment5.target=void\ testToString()
+comment5.text=\r\n\ testing\ the\ toString\ method\r\n
+numComments=6

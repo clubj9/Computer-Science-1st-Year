@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Squad
+comment0.text=\r\n\ \ group\ of\ units\ that\ work\ together,\ kind\ of\ like\ a\ larger\ unit\ \r\n\ \ composed\ of\ multiple\ characters/pieces\r\n\r\n\ \ @author\ Jaden\ Davis-King\ (jadendk)\r\n\ \ @version\ (2023.03.20)\r\n
+comment1.params=n
+comment1.target=Squad(java.lang.String)
+comment1.text=\r\n\ Initializes\ a\ newly\ created\ Squad\ object.\r\n\ @param\ n\ name\r\n
+comment2.params=
+comment2.target=java.util.List\ getUnits()
+comment2.text=\r\n\ getter\ method\ for\ Units\r\n\ @return\ the\ list\r\n
+comment3.params=unit
+comment3.target=void\ addUnit(Unit)
+comment3.text=\r\n\ add\ method\ for\ Units\r\n\ @param\ unit\ unit\r\n
+comment4.params=unit
+comment4.target=void\ removeUnit(Unit)
+comment4.text=\r\n\ remove\ method\ for\ Units\r\n\ @param\ unit\ unit\r\n
+comment5.params=
+comment5.target=int\ getPoints()
+comment5.text=\r\n\ getter\ method\ for\ points\r\n\ @return\ points\r\n
+comment6.params=
+comment6.target=java.lang.String\ toString()
+comment6.text=\r\n\ method\ for\ return\ the\ upgrades\ name\ and\ points\r\n\ @return\ the\ string\r\n
+numComments=7

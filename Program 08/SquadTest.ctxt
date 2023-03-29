@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=SquadTest
+comment0.text=\r\n\ \ Test\ class\ for\ the\ Squad\ class.\r\n\r\n\ \ @author\ Jaden\ Davis-King\ (jadendk)\r\n\ \ @version\ (2023.03.20)\r\n
+comment1.params=
+comment1.target=SquadTest()
+comment1.text=\r\n\ Creates\ a\ new\ SquadTest\ test\ object.\r\n
+comment2.params=
+comment2.target=void\ setUp()
+comment2.text=\r\n\ Sets\ up\ the\ test\ fixture.\r\n\ Called\ before\ every\ test\ case\ method.\r\n
+comment3.params=
+comment3.target=void\ testToString()
+comment3.text=\r\n\ testing\ the\ toString\ method\r\n
+comment4.params=
+comment4.target=void\ testAddUnit()
+comment4.text=\r\n\ testing\ the\ addition\ of\ units\r\n
+comment5.params=
+comment5.target=void\ testRemoveUnits()
+comment5.text=\r\n\ testing\ the\ removal\ of\ units\r\n
+comment6.params=
+comment6.target=void\ testGetPoints()
+comment6.text=\r\n\ testing\ the\ getPoints\ Method\r\n
+numComments=7
